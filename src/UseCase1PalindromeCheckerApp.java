@@ -31,7 +31,7 @@ public class UseCase1PalindromeCheckerApp {
         } else {
             System.out.println(input + " is NOT a Palindrome.");
         }
-
+        System.out.println("Feature1 branch update");
         scanner.close();
     }
 }
